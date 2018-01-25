@@ -6,4 +6,5 @@ RUN apk add --no-cache \
       git \
       libpq \
       libc6-compat \
-      build-base
+      build-base \
+      postgresql-dev
