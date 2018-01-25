@@ -5,4 +5,5 @@ MAINTAINER Leikir Web <web@leikir.io>
 RUN apk add --no-cache \
       git \
       libpq \
-      libc6-compat
+      libc6-compat \
+      build-base
