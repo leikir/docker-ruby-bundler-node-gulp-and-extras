@@ -1,6 +1,0 @@
-# Ruby + Bundler + Node + Gulp + extras Docker Image
-
-This image is based on https://github.com/leikir/docker-ruby-bundler-node-gulp
-
-We add:
-* GIT (git-core)
