@@ -4,4 +4,5 @@ MAINTAINER Leikir Web <web@leikir.io>
 
 RUN apk add --no-cache \
       git \
-      postgresql-dev
+      libpq \
+      libc6-compat
