@@ -4,4 +4,4 @@ MAINTAINER Leikir Web <web@leikir.io>
 
 RUN apk add --no-cache \
       git \
-      libpq
+      postgresql-dev
