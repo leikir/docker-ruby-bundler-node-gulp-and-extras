@@ -8,6 +8,6 @@ RUN apk add --no-cache \
       libc6-compat \
       linux-headers \
       openssh-client \
-      postgresql-dev
+      postgresql-client
 
 RUN gem install rake --no-ri --no-rdoc
