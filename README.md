@@ -10,6 +10,7 @@ We add:
 
 and command-line tools:
 * file
+* imagemagick
 
 and other build-required tools:
 * build-base

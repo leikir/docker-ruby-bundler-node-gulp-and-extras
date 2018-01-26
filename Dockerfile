@@ -6,6 +6,7 @@ RUN apk add --no-cache \
       build-base \
       file \
       git \
+      imagemagick \
       libc6-compat \
       linux-headers \
       openssh-client \
