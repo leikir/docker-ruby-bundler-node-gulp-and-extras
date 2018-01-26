@@ -8,7 +8,10 @@ We add:
 * Rake
 * PG client (postgresql-client)
 
-and build-required tools:
+and command-line tools:
+* file
+
+and other build-required tools:
 * build-base
 * libc6-compat
 * linux-headers

@@ -4,6 +4,7 @@ MAINTAINER Leikir Web <web@leikir.io>
 
 RUN apk add --no-cache \
       build-base \
+      file \
       git \
       libc6-compat \
       linux-headers \
