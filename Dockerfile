@@ -6,5 +6,5 @@ RUN apk add --no-cache \
       git \
       libpq \
       libc6-compat \
-      build-base \
-      postgresql-dev
+      openssh-client \
+      linux-headers
