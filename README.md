@@ -4,4 +4,10 @@ This image is based on [ruby-bundler-node-gulp](https://github.com/leikir/docker
 
 We add:
 * GIT (git-core)
+* SSH (openssh-client)
+
+and build-required tools:
+* build-base
+* libc6-compat
+* linux-headers
 * postgresql-dev
