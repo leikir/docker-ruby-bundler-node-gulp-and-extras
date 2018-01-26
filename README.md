@@ -5,6 +5,7 @@ This image is based on [ruby-bundler-node-gulp](https://github.com/leikir/docker
 We add:
 * GIT (git-core)
 * SSH (openssh-client)
+* Rake
 
 and build-required tools:
 * build-base

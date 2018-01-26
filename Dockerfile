@@ -9,3 +9,5 @@ RUN apk add --no-cache \
       linux-headers \
       openssh-client \
       postgresql-dev
+
+RUN gem install rake --no-ri --no-rdoc
