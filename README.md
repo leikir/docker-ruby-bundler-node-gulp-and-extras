@@ -6,7 +6,7 @@ We add:
 * GIT (git-core)
 * SSH (openssh-client)
 * Rake
-* PG client (postgresql-client)
+* PG client (postgresql-clien)
 
 and command-line tools:
 * file
@@ -16,3 +16,4 @@ and other build-required tools:
 * build-base
 * libc6-compat
 * linux-headers
+# postgresql-dev
