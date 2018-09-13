@@ -4,6 +4,7 @@ MAINTAINER Leikir Web <web@leikir.io>
 
 RUN apk add --no-cache \
       build-base \
+      curl \
       file \
       git \
       imagemagick \
